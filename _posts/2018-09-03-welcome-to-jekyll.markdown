@@ -1,0 +1,54 @@
+---
+layout: post
+title:  "stzb s33 and s44 together sell "
+date:   2018-09-03 22:38:17 +0800
+categories: 8591
+---
+
+# 率土之濱
+
+## 目錄
+- [s33](#s33)
+    - [武將](#武將)
+    - [戰法](#戰法)
+- [s44](#s44)
+    - [武將](#武將1)
+    - [戰法](#戰法1)
+
+## s33
+
+### 武將
+![](https://i.imgur.com/E0CIAxx.jpg)
+
+![](https://i.imgur.com/VNQarzm.jpg)
+
+![](https://i.imgur.com/fQqsqyG.jpg)
+
+![](https://i.imgur.com/bF6zbYO.jpg)
+
+### 戰法
+![](https://i.imgur.com/VqMEntU.jpg)
+
+![](https://i.imgur.com/7zij2jm.jpg)
+
+![](https://i.imgur.com/gcX8HN9.jpg)
+
+![](https://i.imgur.com/LKdgk05.jpg)
+
+![](https://i.imgur.com/FVmkk08.jpg)
+
+## s44
+
+### 武將
+![](https://i.imgur.com/1FNE98t.jpg)
+
+![](https://i.imgur.com/qWPAkx0.jpg)
+
+![](https://i.imgur.com/gPZh4jw.jpg)
+
+### 戰法
+![](https://i.imgur.com/lTknbfE.jpg)
+
+![](https://i.imgur.com/lIbQp01.jpg)
+
+![](https://i.imgur.com/KD9F47Z.jpg)
