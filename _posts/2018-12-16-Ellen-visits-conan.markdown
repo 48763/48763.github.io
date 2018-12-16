@@ -10,7 +10,6 @@ categories: learn-english
 Ref：https://tw.voicetube.com/videos/26246
 
 ## Glossary
-
 ### Easy 
 
 | english | 中文 | 
