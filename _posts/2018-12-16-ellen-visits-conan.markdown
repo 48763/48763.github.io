@@ -121,6 +121,7 @@ Ref：https://tw.voicetube.com/videos/26246
 | quickly | (ad.)很快地,迅速地 |
 
 ### Normal
+
 | english | 中文 | 
 | --- | --- |
 | amaze | (vt.)使驚奇,使驚愕
@@ -135,6 +136,7 @@ Ref：https://tw.voicetube.com/videos/26246
 | stuff | 原料,要素,東西,材料,素質,織品,廢物,廢話(vt.)裝填(vi.)狼吞虎咽 |
 
 ### Hard
+
 | english | 中文 | 
 | --- | --- |
 | warrior | 戰士,勇士,武士,戰鬥,尚武 |
