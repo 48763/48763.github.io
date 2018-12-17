@@ -5,8 +5,6 @@ date:   2018-12-16 16:10:30 +0800
 categories: english
 ---
 
-# Ellen-visits-conan
-
 Ref：https://tw.voicetube.com/videos/26246
 
 ## Glossary
