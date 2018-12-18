@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Firefighters to the rescue after German chocolate factory spill."
-date:   2018-12-16 16:10:30 +0800
+date:   2018-12-18 16:10:30 +0800
 categories: english
 ---
 
@@ -13,7 +13,7 @@ Ref：http://iservice.ltn.com.tw/Service/english/english.php?engno=1254186&day=2
 | English | 中文 |
 | -- | -- |
 | fighter | 戰士 |
-| firefighters | 消防隊員 | 
+| firefighters | 消防隊員 | 
 | rescue | v. 拯救 n. 保全 |
 | spill | v. 外洩 n. 灑 |
 | town | n. 城鎮 |
