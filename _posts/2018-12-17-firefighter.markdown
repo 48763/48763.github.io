@@ -9,6 +9,7 @@ categories: english
 
 Ref：http://iservice.ltn.com.tw/Service/english/english.php?engno=1254186&day=2018-12-15
 
+## Glossary
 
 | English | 中文 |
 | -- | -- |
@@ -33,3 +34,9 @@ Ref：http://iservice.ltn.com.tw/Service/english/english.php?engno=1254186&day=2
 | despite | 儘管 |
 | incident | n. 事件, 事變 adj. 附帶的 |
 | imminent | adj. 即將來臨, 緊迫, 眉睫 |
+
+## 心得
+<!--
+news description an event about tank of liquid chocolate overflowed where happened to town of Werl in western Germany.
+I can't imagine the streets are full of chocolates and what way to clean streets.
+-->
