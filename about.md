@@ -7,4 +7,4 @@ Web site
 [Yuki-Blog](https://yukifans.com/)
 
 Git page
-[Yuki-Blog](https://48763.github.io)
+[Yuki-git-page](https://48763.github.io)
