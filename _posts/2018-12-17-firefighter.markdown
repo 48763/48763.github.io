@@ -8,9 +8,6 @@ categories: english
 Ref：<a href="http://iservice.ltn.com.tw/Service/english/english.php?engno=1254186&day=2018-12-15">
 消防隊員救援發生洩漏的德國巧克力工廠</a>
 
-
-
-
 ## Glossary
 
 | English | 中文 |
@@ -37,8 +34,7 @@ Ref：<a href="http://iservice.ltn.com.tw/Service/english/english.php?engno=1254
 | incident | n. 事件, 事變 adj. 附帶的 |
 | imminent | adj. 即將來臨, 緊迫, 眉睫 |
 
-## 心得
-<!--
+## Reflection
+
 The news illustrates an event about the tank of liquid chocolate overflowed where happened in the town of Werl in western Germany.
 I can’t image that chocolate is everywhere around the streets. Moreover, I don’t know how to clean it.
--->
