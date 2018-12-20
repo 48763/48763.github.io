@@ -39,6 +39,6 @@ Ref：<a href="http://iservice.ltn.com.tw/Service/english/english.php?engno=1254
 
 ## 心得
 <!--
-news description an event about tank of liquid chocolate overflowed where happened to town of Werl in western Germany.
-I can't imagine the streets are full of chocolates and what way to clean streets.
+The news illustrates an event about the tank of liquid chocolate overflowed where happened in the town of Werl in western Germany.
+I can’t image that chocolate is everywhere around the streets. Moreover, I don’t know how to clean it.
 -->
