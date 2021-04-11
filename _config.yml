@@ -8,7 +8,7 @@ github_username:  "48763"
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: minimal
 plugins:
   - jekyll-feed
 
