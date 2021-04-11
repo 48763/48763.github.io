@@ -1,0 +1,9 @@
+**/.DS_Store
+**/desktop.ini
+_site
+.sass-cache
+Gemfile.lock
+*.gem
+**/images
+**/jp
+
