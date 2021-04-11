@@ -4,6 +4,3 @@ _site
 .sass-cache
 Gemfile.lock
 *.gem
-**/images
-**/jp
-
