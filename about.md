@@ -6,7 +6,7 @@ permalink: /about/
 
 # 鄭靖憲（Edgar Cheng）
 
-- E-mail：future.starshine@gmail.com
+- E-mail：<future.starshine@gmail.com>
 - Linkedin：[Edgar Cheng](https://www.linkedin.com/in/yuki-cheng-ss)
 - Blog：[Yuki-Blog](https://yukifans.com/)
 - Github：[48763](https://github.com/48763)
