@@ -60,13 +60,15 @@ permalink: /about/
 
 ## Skills
 
-基礎技能：熟悉 linux 文字介面操作，會撰寫 shell script 或 python 以解決需要重複操作的工作，程式語言會使用 Java[*][1]、java script、C。在網路的部分，擁有 CCNA[*][2]，熟悉交換器和路由器的操作，能獨立建置小型機房網路，也瞭解網路封包運作（ e.g. arp, icmp, tcp, udp, http, etc.）。
+> 文內的 `&p` 是外部連結
 
-系統和監控：對作業系統概論有很好的掌握，效能問題排查時，能有一定的概念；熟悉 prometheus[*][3][*][5] 和 nagios[*][4] 兩套監控，能夠獨立建置 prometheus 整個監控架構，並使用 grafana 製作儀表板，以及結合 alertmanager 推送告警至 slack。
+基礎技能：熟悉 linux 文字介面操作，會撰寫 shell script 或 python 以解決需要重複操作的工作，程式語言會使用 Java[&p][1]、java script、C。在網路的部分，擁有 CCNA[&p][2]，熟悉交換器和路由器的操作，能獨立建置小型機房網路，也瞭解網路封包運作（ e.g. arp, icmp, tcp, udp, http, etc.）。
 
-虛擬化應用：深入瞭解 Docker[*][6]，會撰寫最佳實踐的 dockerfile[*][7]，能得心應手的操作容器，也會撰寫 compose。會建置 docker 私有儲存倉 - Harbor。對於 swarm 或 kubernetes 的操作，也有一定的知識與熟悉度（後者比較常接觸）。
+系統和監控：對作業系統概論有很好的掌握，效能問題排查時，能有一定的概念；熟悉 prometheus[&p][3][&p][5] 和 nagios[&p][4] 兩套監控，能夠獨立建置 prometheus 整個監控架構，並使用 grafana 製作儀表板，以及結合 alertmanager 推送告警至 slack。
 
-版控及 CI/CD：瞭解 git 基本操作，能使用指令完成日常操作。在自動化的部分，熟悉 jenkins[*][8] 自動整合及部署，也有自行撰寫個人的 groovy 公版。
+虛擬化應用：深入瞭解 Docker[&p][6]，會撰寫最佳實踐的 dockerfile[&p][7]，能得心應手的操作容器，也會撰寫 compose。會建置 docker 私有儲存倉 - Harbor。對於 swarm 或 kubernetes 的操作，也有一定的知識與熟悉度（後者比較常接觸）。
+
+版控及 CI/CD：瞭解 git 基本操作，能使用指令完成日常操作。在自動化的部分，熟悉 jenkins[&p][8] 自動整合及部署，也有自行撰寫個人的 groovy 公版。
 
 謝謝您撥冗觀看我的履歷表！
 
