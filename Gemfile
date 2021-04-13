@@ -1,4 +1,15 @@
 source "https://rubygems.org"
 
-gem "github-pages", "214"
+gem "jekyll", "~> 3.7.3"
+gem "minima", "~> 2.0"
+
+gem 'jekyll-relative-links'
+
+group :jekyll_plugins do
+    gem "jekyll-feed", "~> 0.6"
+end  
+
+gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+# gem "github-pages", "214"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
