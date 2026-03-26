@@ -1,0 +1,115 @@
+#
+# --- --- --- --- --- --- --- --- ---
+# ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#    Site-wide settings
+# ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼
+#
+
+# The URL of your site
+url: "https://48763.github.io"
+
+# The base URL of your site
+baseurl: ""
+
+# The name of your site
+title: SRE Tech Notes
+
+# The tagline of your site
+tagline: An SRE/DevOps technical blog by Edgar Cheng.
+
+# The timezone of your site
+timezone: Asia/Taipei
+
+# The language of your site
+lang: en
+
+# The GitHub repository of your site
+github:
+  username: 48763
+
+# The site's social links
+social:
+  name: Edgar Cheng
+  links:
+    - https://github.com/48763
+    # - https://twitter.com/your_twitter_username
+
+#
+# --- --- --- --- --- --- --- --- ---
+# ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#          Jekyll
+# ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼
+#
+
+# The theme to be used
+# theme: jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy@v6.5.0
+
+# The plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-github-metadata
+  - jekyll-include-cache
+  - jekyll-remote-theme
+  - jekyll-archives
+  - jekyll-paginate
+  - jekyll-redirect-from
+
+# The collections
+collections:
+  tabs:
+    output: true
+    sort_by: order
+
+#
+# --- --- --- --- --- --- --- --- ---
+# ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲ ▲
+#       Appearance
+# ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼ ▼
+#
+
+# The avatar
+# avatar:
+
+# The favicon
+# favicon:
+
+# The mode switch
+mode_switch:
+  enabled: true
+
+# Table of contents
+toc:
+  enabled: true
+  selectors: "h1,h2,h3"
+
+# Pagination
+paginate: 10
+
+# Jekyll Archives
+jekyll-archives:
+  enabled: ['categories', 'tags']
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
+# Appearance
+avatar: 'https://github.com/48763.png'
+
+# Favicon
+# To modify or add favicons, go to: assets/img/favicons/
+favicon:
+
+google_analytics:
+  id: '' # Add your ID if you use it
+
+# Polyfill (disabled due to polyfill.io security issues)
+polyfill: false
+
+# MathJax
+mathjax: false

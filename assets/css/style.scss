@@ -1,0 +1,26 @@
+---
+---
+
+@import "main";
+
+/* 
+   Ultimate fix for non-functional category arrows:
+   Target any chevron icon inside a category header that DOES NOT have a toggle attribute.
+*/
+#categories .card-header:not([data-bs-toggle]) i.fa-chevron-right,
+#categories .card-header:not([data-bs-toggle]) i.fa-chevron-down,
+#categories .card-header:not([data-bs-toggle]) i.fas.fa-chevron-right,
+#categories .card-header:not([data-bs-toggle]) i.fas.fa-chevron-down {
+  display: none !important;
+}
+
+/* Remove the 'not-allowed' or 'pointer' cursor for non-expandable headers */
+#categories .card-header:not([data-bs-toggle]) {
+  cursor: default !important;
+}
+
+/* Ensure sub-items without children also hide their arrows if any */
+#categories .list-group-item:not([data-bs-toggle]) i.fa-chevron-right,
+#categories .list-group-item:not([data-bs-toggle]) i.fa-chevron-down {
+  display: none !important;
+}
