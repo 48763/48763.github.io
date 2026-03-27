@@ -42,7 +42,8 @@ social:
 #
 
 # The theme to be used
-theme: jekyll-theme-chirpy
+# theme: jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy@v6.5.0
 
 # The plugins
 plugins:
@@ -51,6 +52,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-github-metadata
   - jekyll-include-cache
+  - jekyll-remote-theme
   - jekyll-archives
   - jekyll-paginate
   - jekyll-redirect-from

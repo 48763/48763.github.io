@@ -10,7 +10,7 @@ gem "jekyll", "~> 4.3.3"
 
 # All Jekyll-based themes are based on the theme gem.
 #
-gem "jekyll-theme-chirpy", "~> 7.1.1"
+# gem "jekyll-theme-chirpy", "~> 6.5.0"
 
 # Jekyll plugins
 #
