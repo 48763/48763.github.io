@@ -42,8 +42,8 @@ social:
 #
 
 # The theme to be used
-theme: jekyll-theme-chirpy
-# remote_theme: cotes2020/jekyll-theme-chirpy@v6.5.0
+# theme: jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy@v6.5.0
 
 # The plugins
 plugins:
@@ -52,7 +52,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-github-metadata
   - jekyll-include-cache
-  # - jekyll-remote-theme
+  - jekyll-remote-theme
   - jekyll-archives
   - jekyll-paginate
   - jekyll-redirect-from
@@ -76,12 +76,9 @@ collections:
 # The favicon
 # favicon:
 
-# The theme's default mode (available: 'light', 'dark')
-# If not set, it will follow the OS's system preferences.
-#
-# Note: Keeping this empty will default to system preference
-# and provide a toggle button to switch the theme manually.
-theme_mode: 
+# The mode switch
+mode_switch:
+  enabled: true
 
 # Table of contents
 toc:
