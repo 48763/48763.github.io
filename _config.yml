@@ -43,7 +43,7 @@ social:
 
 # The theme to be used
 # theme: jekyll-theme-chirpy
-remote_theme: cotes2020/jekyll-theme-chirpy@v6.5.0
+remote_theme: cotes2020/jekyll-theme-chirpy@v7.1.1
 
 # The plugins
 plugins:
