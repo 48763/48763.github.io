@@ -17,6 +17,9 @@ title: 48763
 # The tagline of your site
 tagline: An SRE/DevOps technical blog by Edgar Cheng.
 
+# The repository NWO on GitHub
+repository: 48763/48763.github.io
+
 # The timezone of your site
 timezone: Asia/Taipei
 
