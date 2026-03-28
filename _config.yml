@@ -116,3 +116,8 @@ polyfill: false
 
 # MathJax
 mathjax: false
+
+# Sass
+sass:
+  load_paths:
+    - _sass
