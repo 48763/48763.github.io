@@ -35,6 +35,14 @@ jobs:
           rubygems: latest
           bundler-cache: true
  # runs 'bundle install' and caches installed gems automatically
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      - name: Install JS dependencies
+        run: npm install
+      - name: Build assets
+        run: npm run build
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
