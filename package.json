@@ -82,7 +82,7 @@
         "lower",
         {
           "ignoreProperties": [
-            "/^\$/"
+            "/^\\\\$/"
           ]
         }
       ],
