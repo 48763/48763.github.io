@@ -97,7 +97,8 @@ jekyll-archives:
     tag: /tags/:name/
 
 # Appearance
-avatar: 'https://github.com/48763.png'
+avatar: '/assets/img/avatar.png'
+social_preview_image: '/assets/img/avatar.png'
 
 # Favicon
 # To modify or add favicons, go to: assets/img/favicons/
