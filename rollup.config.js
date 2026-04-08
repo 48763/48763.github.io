@@ -22,8 +22,7 @@ function build(filename) {
     plugins: [
       babel({
         babelHelpers: 'bundled',
-        presets: ['@babel/env'],
-        plugins: ['@babel/plugin-proposal-class-properties']
+        presets: ['@babel/env']
       }),
       license({
         banner: {
